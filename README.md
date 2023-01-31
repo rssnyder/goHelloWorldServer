@@ -16,10 +16,6 @@ Hello, Nofar
 Test1
 ``` 
 
-khkk
-
-  
-   jhgjfhjgf
    
     
          
